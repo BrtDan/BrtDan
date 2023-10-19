@@ -8,10 +8,11 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Daniel Bertucci</h1></summary>
   </ul>
-  <ul align="center">
-    <a href="https://danielbertucci.social/"><h2 style="display: inline-block">danielbertucci.social</h2></a>
-  </ul>
 </div>
+
+<ul align="center">
+  <a href="https://danielbertucci.social/"><h1 style="display: inline-block">danielbertucci.social</h1></a>
+</ul>
 
 Ciao! Sono un appassionato sviluppatore web/software di 20 anni, di Imola (BO), Italia. Attualmente, sto perseguendo la mia passione per il coding come studente presso l'ITIS F. Alberghetti.
 
