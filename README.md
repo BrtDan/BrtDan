@@ -53,7 +53,7 @@ Ho acquisito una solida esperienza nell'utilizzo di strumenti di progettazione a
 
 <div align="center">
 
-<a href="https://github.com/brtdan/">
+<a href="https://github.com/brt.dan/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brtdan&theme=dark&layout=compact" width="375"  alt="0xabdulkhalid"/>
   
 </a>
