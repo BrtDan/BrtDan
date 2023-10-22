@@ -13,7 +13,7 @@
 Ciao! Sono un appassionato sviluppatore web/software di 20 anni, di Imola (BO), Italia. Attualmente, sto perseguendo la mia passione per il coding come studente presso l'ITIS F. Alberghetti.
 
 Possiedo solide conoscenze di HTML, CSS, JavaScript, React e Php. Inoltre, ho esperienza nella programmazione con C++, Python, Assembly e Bash, che mi permettono di affrontare progetti complessi e di adattarmi a diverse esigenze tecnologiche. Inoltre, possiedo competenze nei database relazionali, sono in grado di progettare e gestire database con particolare conoscenza di MySQL.
-Ho acquisito una solida esperienza nell'utilizzo di strumenti di progettazione assistita dal computer come AutoCAD per il disegno 2D e SolidWorks per il disegno CAD 3D. Sono certificato ICDL per AutoCAD 2D e CAD 3D con SolidWorks, dimostrando la mia competenza nell'utilizzo di questi software.
+Ho acquisito una solida esperienza nell'utilizzo di strumenti di progettazione assistita dal computer come AutoCAD per il disegno 2D e SolidWorks per il disegno CAD 3D. Sono certificato ICDL per AutoCAD 2D e CAD 3D con SolidWorks, dimostrando la mia competenza nell'utilizzo di questi software.<br>
 Il mio sito web: <a href="https://danielbertucci.social/">danielbertucci.social</a>
 
 <div align="center">
