@@ -28,9 +28,9 @@ Il mio sito web: <a href="https://danielbertucci.social/">danielbertucci.social<
   </ul>
 </div>
 
-- 🔭 Attualmente sto lavorando con **Js, React, Tailwind, Nodejs, MySql, Php**
+- 🔭 Attualmente sto lavorando con **Js, React, Tailwind, Nodejs, MySql, Php e Arduino**
 
-- 🌱 Attualmente sto imparando **Ts, Electron e Java**.
+- 🌱 Attualmente sto imparando **Electron e Java**.
 
 - ☁️ Mi interessa principalmente lo sviluppo web, sia lato server che client.
 
