@@ -17,11 +17,6 @@ Ho acquisito una solida esperienza nell'utilizzo di strumenti di progettazione a
 
 Il mio sito web: <a href="https://danielbertucci.social/">danielbertucci.social</a>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <div id="user-content-toc" style="text-align: center;">
   <ul align="center">
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
