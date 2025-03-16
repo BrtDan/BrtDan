@@ -1,4 +1,4 @@
-# Sviluppatore Web/Software 🚀
+# Full Stack Developer 🚀
 
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
@@ -10,10 +10,9 @@
   </ul>
 </div>
 
-Ciao! Sono un appassionato sviluppatore web/software di Imola (BO), Italia.
+Hi! I'm a passionate Full Stack Developer based in Bologna, Italy.
 
-Possiedo solide conoscenze di HTML, CSS, JavaScript, React e Php. Inoltre, ho esperienza nella programmazione con C++, Python, Assembly e Bash, che mi permettono di affrontare progetti complessi e di adattarmi a diverse esigenze tecnologiche. Inoltre, possiedo competenze nei database relazionali, sono in grado di progettare e gestire database con particolare conoscenza di MySQL.
-Ho acquisito una solida esperienza nell'utilizzo di strumenti di progettazione assistita dal computer come AutoCAD per il disegno 2D e SolidWorks per il disegno CAD 3D. Sono certificato ICDL per AutoCAD 2D e CAD 3D con SolidWorks, dimostrando la mia competenza nell'utilizzo di questi software.
+I'm currently working with Angular and Python, but I also have experience with ReactJS and TailwindCSS. I love crafting dynamic, efficient, and user-friendly web applications that make an impact.
 
 <div id="user-content-toc" style="text-align: center;">
   <ul align="center">
@@ -21,23 +20,21 @@ Ho acquisito una solida esperienza nell'utilizzo di strumenti di progettazione a
   </ul>
 </div>
 
-- 🔭 Attualmente sto lavorando con **Js, React, Tailwind, Nodejs, MySql, Php e Arduino**
+- 🔭 Currently I'm working with **Angular, TypeScript, ReactJS, TailwindCss and NodeJS/TS**
 
-- 🌱 Attualmente sto imparando **Electron, Laravel e Java**.
+- ☁️ I love working on the frontend, but I also enjoy working on the backend and developing APIs.
 
-- ☁️ Mi interessa principalmente lo sviluppo web, sia lato server che client.
-
-- 📫 Contattami per email **bertucci.daniel@icloud.com**
+- 📫 Contact me by email **bertucci.daniel@icloud.com**
 
 <div id="user-content-toc" style="text-align: center;">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologie che conosco👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">My Skills👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,python,kotlin,cpp,git,github,postman,mysql,postgres,linux,bash,androidstudio,vite,md,jquery,vscode,idea,autocad,ps,raspberrypi,replit,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,nodejs,tailwind,bootstrap,python,kotlin,cpp,git,github,postman,mysql,postgres,linux,bash,androidstudio,vite,md,jquery,vscode,idea,autocad,ps,raspberrypi,replit,discord&perline=14" />
   </a>
 </p>
 
